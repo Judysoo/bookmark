@@ -4,7 +4,7 @@ Judy의 북마크를 깃헙에 저장합니다^^
 
 https://leetcode.com/ leetcode \
 https://programmers.co.kr/ 프로그래머스
-</br>
+<p>
 
 2. 사용 가능한 프리소스
 
