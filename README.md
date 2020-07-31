@@ -16,3 +16,7 @@ https://unsplash.com/ 언스플래쉬
 3. 디자인, 컬러링
 
 https://www.webdesignrankings.com/resources/lolcolors/ LOL Colors \
+
+4. 편집 툴
+
+http://apps.pixlr.com/editor/ Pixlr 온라인 사진 편집 
