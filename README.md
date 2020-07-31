@@ -12,3 +12,7 @@ https://programmers.co.kr/ 프로그래머스
 
 https://pixabay.com/ko/ 픽사베이 \
 https://unsplash.com/ 언스플래쉬
+
+3. 디자인, 컬러링
+
+https://www.webdesignrankings.com/resources/lolcolors/ LOL Colors \
