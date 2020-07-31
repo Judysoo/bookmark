@@ -9,7 +9,7 @@ https://programmers.co.kr/ 프로그래머스
 
 # 사용 가능한 프리소스
 
-+CC0
++ CC0
 
 https://pixabay.com/ko/ 픽사베이 \
 https://unsplash.com/ 언스플래쉬 \
