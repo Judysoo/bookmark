@@ -20,7 +20,7 @@ https://www.irasutoya.com/ 이라스토야, 이미지 21점 이상 또는 고해
 2-3. 한정적으로 개인용으로만 이용 가능
 
 # 3. 이미지 유료 사용
-
+http://www.clipartkorea.co.kr/main/index.php 클립아트코리아
 
 # 4. 디자인, 컬러링
 
