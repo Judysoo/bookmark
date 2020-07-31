@@ -11,10 +11,10 @@ https://programmers.co.kr/ 프로그래머스
 2-1.CC0
 
 https://pixabay.com/ko/ 픽사베이 \
-https://unsplash.com/ 언스플래쉬
+https://unsplash.com/ 언스플래쉬 \
 https://www.flaticon.com/ Flaticon 아이콘
 
-2-2. 한정적으로 상업용으로도 이용 가능
+2-2. 한정적으로 상업용으로도 이용 가능 \
 https://www.irasutoya.com/ 이라스토야, 이미지 21점 이상 또는 고해상도 이미지 사용 시 유료
 
 2-3. 한정적으로 개인용으로만 이용 가능
