@@ -30,4 +30,9 @@ https://www.webdesignrankings.com/resources/lolcolors/ LOL Colors \
 
 # 편집 툴
 
-http://apps.pixlr.com/editor/ Pixlr 온라인 사진 편집 
+http://apps.pixlr.com/editor/ Pixlr 온라인 사진 편집
+
+# 웹디자인
+
+http://www.gdweb.co.kr/main/ 지디웹
+https://www.awwwards.com/ 
