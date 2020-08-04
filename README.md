@@ -38,4 +38,5 @@ http://www.gdweb.co.kr/main/ 지디웹 \
 https://www.awwwards.com/
 
 # PPT 디자인
-http://pptbizcam.co.kr/ 피피티 \
+http://pptbizcam.co.kr/ 피피티 비즈캠 \
+
