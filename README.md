@@ -1,9 +1,21 @@
 Judy의 북마크를 깃헙에 저장합니다^^
 
+# 기초다지기
+
+https://developer.mozilla.org/ko/ MDN 선생님 \
+https://stackoverflow.com/ 스택오버플로우 선생님 \
+https://ko.javascript.info/ 모던 자바스크립트 튜토리얼 \
+https://react.vlpt.us/ 벨로퍼트와 함꼐하는 모던 자바스크립트 \
+https://ko.reactjs.org/ 리액트 공식문서 \
+https://backlog.com/git-tutorial/kr/ 원숭이도 하는 깃허브 입문 \
+
 # JS코딩테스트 대비
 
 https://leetcode.com/ leetcode \
 https://programmers.co.kr/ 프로그래머스
+
+# 알아보고 있는 것~?
+https://ko.parceljs.org/ 파셀(웹 애플리케이션 번들러. vs 웹팩) \
 
 # CSS 프레임워크
 
@@ -40,3 +52,8 @@ https://www.awwwards.com/
 # PPT 디자인
 http://pptbizcam.co.kr/ 피피티 비즈캠 \
 
+# 취업 사이트
+https://www.work.go.kr/seekWantedMain.do 워크넷 \ 
+https://www.saramin.co.kr/zf_user/ 사람인 \ 
+https://www.jobkorea.co.kr/ 잡코리아 \ 
+http://www.alio.go.kr/home.do 알리오(공공기관 경영정보 공개시스템)
