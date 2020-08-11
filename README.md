@@ -47,7 +47,7 @@ http://apps.pixlr.com/editor/ Pixlr 온라인 사진 편집
 # 웹디자인
 
 http://www.gdweb.co.kr/main/ 지디웹 \
-https://www.awwwards.com/
+https://www.awwwards.com/ 어워드 \
 
 # PPT 디자인
 http://pptbizcam.co.kr/ 피피티 비즈캠 \
