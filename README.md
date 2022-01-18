@@ -7,7 +7,7 @@ https://stackoverflow.com/ 스택오버플로우 선생님 \
 https://ko.javascript.info/ 모던 자바스크립트 튜토리얼 \
 https://react.vlpt.us/ 벨로퍼트와 함꼐하는 모던 자바스크립트 \
 https://ko.reactjs.org/ 리액트 공식문서 \
-https://backlog.com/git-tutorial/kr/ 원숭이도 하는 깃허브 입문 \
+https://backlog.com/git-tutorial/kr/ 원숭이도 하는 Git 입문 \
 
 # JS코딩테스트 대비
 
